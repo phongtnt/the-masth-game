@@ -1,1 +1,7 @@
-# the-mast-game created by awesome and llama
+
+<!DOCTYPE html>
+<html>
+<body>
+    <iframe src="https://awesome-llama.github.io/projects/the_mast"></iframe>
+</body>
+</html>
